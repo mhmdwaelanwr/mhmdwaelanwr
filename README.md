@@ -3,7 +3,7 @@
 - 👀 I’m interested in Cybersecurity, AI, and Full-Stack Development.
 - 🌱 I’m currently learning Computer Science and expanding my knowledge in Machine Learning, Embedded Systems, and Web Development.
 - 💞️ I’m looking to collaborate on open-source projects related to cybersecurity, AI-driven applications, and IoT security.
-- 📫 How to reach me: You can find me on [GitHub](https://github.com/mhmdwaelanwr), [LinkedIn](https://www.linkedin.com/in/mhmdwaelanwr), [Facebook](https://www.facebook.com/mhmdwaelanwr), and [GitHub](https://github.com/mhmdwaelanwr).
+- 📫 How to reach me: You can find me on [GitHub](https://github.com/mhmdwaelanwr), [LinkedIn](https://www.linkedin.com/in/mhmdwaelanwr), [Facebook](https://www.facebook.com/mhmdwaelanwr). 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving complex problems, and I’m also an avid chess player!
 
