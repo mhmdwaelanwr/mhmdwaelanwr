@@ -4,7 +4,7 @@
 
 ### Computer Science Student • Mobile & Full-Stack Developer • Linux & AI Systems Track
 
-I build practical software across **mobile apps**, **backend APIs**, **developer tools**, and **systems-focused workflows**.
+I build practical software across **mobile apps**, **backend APIs**, **developer tools**, and **systems-focused workflows** — with a long-term focus on **AI Systems, ML Infrastructure, and MLOps**.
 
 <p>
   <a href="https://github.com/mhmdwaelanwr">
@@ -19,44 +19,44 @@ I build practical software across **mobile apps**, **backend APIs**, **developer
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Computer%20Science-AOU%20Egypt-0A66C2?style=flat-square" alt="Computer Science - AOU Egypt" />
-  <img src="https://img.shields.io/badge/Huawei%20ICT-Computing%20Silver%202025-EA4335?style=flat-square" alt="Huawei ICT Computing Silver Medalist 2025" />
+  <img src="https://img.shields.io/badge/AOU-Computer%20Science-0A66C2?style=flat-square" alt="AOU Computer Science" />
+  <img src="https://img.shields.io/badge/Huawei%20ICT-Computing%20Silver%202025-EA4335?style=flat-square" alt="Huawei ICT Computing Silver 2025" />
   <img src="https://img.shields.io/badge/CCNA-Training-1F6FEB?style=flat-square" alt="CCNA Training" />
   <img src="https://img.shields.io/badge/Linux-Red%20Hat%20%7C%20Ubuntu-2EA043?style=flat-square" alt="Linux Red Hat Ubuntu" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Systems%20%7C%20MLOps-6F42C1?style=flat-square" alt="AI Systems MLOps" />
 </p>
 
 </div>
 
 ---
 
-## Professional Snapshot
+## Profile
 
-| Area | Details |
-|---|---|
-| **Education** | Computer Science student at **Arab Open University (AOU), Egypt** |
-| **Main work** | Mobile apps, backend APIs, developer tools, Android projects, and practical automation |
-| **Recognition** | **Huawei ICT Competition 2025 — Computing Track Silver Medalist** |
-| **Technical base** | React Native, TypeScript, Flutter, Kotlin, Java, Node.js, Express.js, Linux, Git/GitHub |
-| **Infrastructure direction** | Linux, Python automation, networking, AWS fundamentals, Docker, CI/CD, FastAPI, MLOps |
-| **Hands-on background** | Hardware maintenance, PC/laptop troubleshooting, Windows/Linux installation, CMD/Bash/PowerShell scripting |
+I am a **Computer Science student at Arab Open University (AOU), Egypt**, building a technical path that combines **mobile development**, **backend engineering**, **Linux/system fundamentals**, and **AI infrastructure**.
+
+My background includes hands-on work in Android/mobile projects, backend APIs, developer tools, hardware maintenance, Linux installation/troubleshooting, networking fundamentals, and practical scripting with **CMD, Bash, and PowerShell**.
 
 ---
 
-## What I Build
+## Core Strengths
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>📱 Mobile Applications</h3>
-      <p>Cross-platform and native Android apps using React Native, Flutter, Kotlin, Java, and Kotlin Multiplatform.</p>
+    <td width="25%" valign="top">
+      <h3>📱 Mobile Engineering</h3>
+      <p>React Native, TypeScript, Flutter, Kotlin, Java Android, and Kotlin Multiplatform projects.</p>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>⚙️ Backend & APIs</h3>
-      <p>REST APIs and service logic using Node.js, Express.js, API integration, and production-oriented backend workflows.</p>
+      <p>Node.js, Express.js, REST APIs, service logic, API integration, and deployment-oriented workflows.</p>
     </td>
-    <td width="33%" valign="top">
-      <h3>🐧 Systems Track</h3>
-      <p>Linux administration, scripting, networking fundamentals, deployment basics, and AI systems / ML infrastructure learning.</p>
+    <td width="25%" valign="top">
+      <h3>🐧 Linux & Systems</h3>
+      <p>Red Hat, Ubuntu, Bash, PowerShell, CMD, installation, troubleshooting, and basic administration.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>🤖 AI Systems Track</h3>
+      <p>Learning Linux, Python, AWS, Docker, CI/CD, FastAPI, model serving, and MLOps fundamentals.</p>
     </td>
   </tr>
 </table>
@@ -71,26 +71,39 @@ I build practical software across **mobile apps**, **backend APIs**, **developer
 
 <br />
 
-| Category | Tools & Technologies |
+| Domain | Tools & Technologies |
 |---|---|
 | **Mobile** | React Native, TypeScript, JavaScript, Flutter, Dart, Kotlin, Java Android, Kotlin Multiplatform |
-| **Backend** | Node.js, Express.js, REST APIs, JSON, API integration |
-| **Linux & Systems** | Red Hat, Ubuntu, Bash, CMD, PowerShell, SSH, package management, basic system administration |
+| **Backend** | Node.js, Express.js, REST APIs, JSON, API integration, Firebase |
+| **Linux & Systems** | Red Hat, Ubuntu, Bash, CMD, PowerShell, SSH, package management, system setup, troubleshooting |
 | **Networking** | CCNA training, Cisco Packet Tracer, IP addressing, subnetting, routing basics, DNS, DHCP, TCP/UDP |
 | **Cloud / DevOps Path** | AWS fundamentals, Docker, GitHub Actions, CI/CD basics, FastAPI, MLOps concepts |
-| **Tools** | Git, GitHub, Android Studio, VS Code, Firebase |
+| **Tools** | Git, GitHub, Android Studio, VS Code, documentation workflows |
 
 ---
 
-## Featured Work
+## Recognition & Experience
+
+| Item | Details |
+|---|---|
+| **Huawei ICT Competition** | **Computing Track Silver Medalist — 2025** |
+| **Microsoft Student Club AOU** | Web Team Member, then Web / Mobile Development Member |
+| **Huawei Student Club** | Web Team Member |
+| **CCNA Training** | Completed networking training through AOU training center; hands-on practice using Cisco Packet Tracer |
+| **Hardware Maintenance** | 2 years of PC troubleshooting, laptop diagnostics, Windows/Linux installation, and repair support |
+| **Technical Sales Background** | Computer hardware/components sales, customer support, product explanation, and hardware compatibility awareness |
+
+---
+
+## Featured Projects
 
 ### Markdown Creator Ecosystem
 
-A developer-tool product line for creating structured GitHub README/Markdown files. I rebuilt the same product idea across different stacks to improve cross-platform product engineering and delivery quality.
+A developer-tool product line for creating structured GitHub README/Markdown files. I rebuilt the same product idea across different stacks to strengthen cross-platform product engineering, documentation tooling, and product delivery quality.
 
-| Project | Stack | Description |
+| Project | Stack | Role / Value |
 |---|---|---|
-| [**Markdown-Creator**](https://github.com/mhmdwaelanwr/Markdown-Creator) | React Native, JavaScript, TypeScript | More advanced cross-platform README/Markdown creator. Repository upload in progress. |
+| [**Markdown-Creator**](https://github.com/mhmdwaelanwr/Markdown-Creator) | React Native, JavaScript, TypeScript | Advanced cross-platform README/Markdown creator. Public repository upload in progress. |
 | [**Markdown-Creator-Dart**](https://github.com/mhmdwaelanwr/Markdown-Creator-Dart) | Flutter, Dart, Firebase, Gemini AI | Flutter-based README creator with live preview and AI-powered content generation. |
 | [**Readme-Creator-Web**](https://github.com/mhmdwaelanwr/Readme-Creator-Web) | Node.js, Express.js | Production web deployment for the README Creator experience. |
 
@@ -100,18 +113,13 @@ A developer-tool product line for creating structured GitHub README/Markdown fil
   </a>
 </div>
 
-### Mobile & Android Projects
+### Mobile, Android & Blockchain Projects
 
-| Project | Stack | Description |
+| Project | Stack | What it does |
 |---|---|---|
 | [**Falling-App**](https://github.com/mhmdwaelanwr/Falling-App) | Kotlin Multiplatform, Compose Multiplatform | Fall detection and emergency response system with alert flow and Android foreground service. |
-| [**Events-Registration**](https://github.com/mhmdwaelanwr/Events-Registration) | Kotlin, Java, Android, Hedera | Event registration app with tickets, QR attendance verification, and blockchain-backed tracking. |
+| [**Events-Registration**](https://github.com/mhmdwaelanwr/Events-Registration) | Kotlin, Java, Android, Hedera | Event registration app with digital tickets, QR attendance verification, and blockchain-backed tracking. |
 | [**Hedera-Transfer-App**](https://github.com/mhmdwaelanwr/Hedera-Transfer-App) | Java, Android, Hedera SDK | Android app for secure HBAR/token transfers, account handling, QR support, and transaction history. |
-
-### Backend & API Project
-
-| Project | Stack | Description |
-|---|---|---|
 | [**Hedera-Transfer-API**](https://github.com/mhmdwaelanwr/Hedera-Transfer-API) | Node.js, Express.js, Hedera SDK | REST API for HBAR transfers, balance inquiry, credential verification, and transaction tracking. |
 
 ### Early Android Development
@@ -120,28 +128,17 @@ A developer-tool product line for creating structured GitHub README/Markdown fil
 
 ---
 
-## Community & Experience
-
-| Role / Activity | Details |
-|---|---|
-| **Microsoft Student Club AOU** | Web Team Member, then Web / Mobile Development Member |
-| **Huawei Student Club** | Web Team Member |
-| **Hardware Maintenance** | 2 years of PC troubleshooting, laptop diagnostics, Windows/Linux installation, and scripting |
-| **Technical Sales Background** | Computer hardware/components sales experience, customer support, and product explanation |
-
----
-
-## Current Learning Path
+## Current Engineering Roadmap
 
 ```text
 Linux Administration → Python Automation → Networking → AWS Fundamentals → Docker / CI-CD → FastAPI → AI Serving / MLOps
 ```
 
-- Strengthening Linux administration and server fundamentals.
-- Practicing Python automation and scripting.
-- Building stronger networking and cloud fundamentals.
-- Learning Docker, GitHub Actions, CI/CD, FastAPI, and model-serving workflows.
-- Moving toward practical **AI Systems / ML Infrastructure / MLOps** work.
+| Stage | Focus |
+|---|---|
+| **Now** | Linux administration, Python automation, networking fundamentals, Git/GitHub workflow |
+| **Next** | AWS fundamentals, Docker, GitHub Actions, FastAPI service deployment |
+| **Target** | AI Systems / ML Infrastructure / MLOps: model serving, monitoring, reliability, and deployment workflows |
 
 ---
 
