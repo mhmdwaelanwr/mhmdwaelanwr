@@ -173,9 +173,6 @@ Linux Administration → Python Automation → Networking → AWS Fundamentals �
   <a href="https://www.linkedin.com/in/mhmdwaelanwr">
     <img src="https://img.shields.io/badge/LinkedIn-mhmdwaelanwr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.readmecreator.studio/app">
-    <img src="https://img.shields.io/badge/Portfolio-Readme%20Creator-2EA043?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
   <a href="https://www.facebook.com/mhmdwaelanwr">
     <img src="https://img.shields.io/badge/Facebook-mhmdwaelanwr-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
