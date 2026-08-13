@@ -82,20 +82,20 @@ My background includes hands-on work in Android/mobile projects, backend APIs, d
 
 ---
 
-## Recognition & Experience
-
-| Item | Details |
-|---|---|
-| **Huawei ICT Competition** | **Computing Track Silver Medalist — 2025** |
-| **Microsoft Student Club AOU** | Web Team Member, then Web / Mobile Development Member |
-| **Huawei Student Club** | Web Team Member |
-| **CCNA Training** | Completed networking training through AOU training center; hands-on practice using Cisco Packet Tracer |
-| **Hardware Maintenance** | 2 years of PC troubleshooting, laptop diagnostics, Windows/Linux installation, and repair support |
-| **Technical Sales Background** | Computer hardware/components sales, customer support, product explanation, and hardware compatibility awareness |
-
----
-
 ## Featured Projects
+
+### 🛠️ Nautilus Code New File
+
+[**Nautilus Code New File**](https://github.com/mhmdwaelanwr/nautilus-code-new-file) is a lightweight Python extension for **GNOME Files / Nautilus** that adds a categorized **New Code File...** menu to the folder right-click menu. It supports common frontend, backend, scripting, configuration, mobile, and DevOps file types with a quick Zenity filename prompt.
+
+<p>
+  <a href="https://github.com/mhmdwaelanwr/nautilus-code-new-file">
+    <img src="https://img.shields.io/github/stars/mhmdwaelanwr/nautilus-code-new-file?style=for-the-badge&logo=github" alt="Nautilus Code New File stars" />
+  </a>
+  <a href="https://github.com/mhmdwaelanwr/nautilus-code-new-file/releases/latest">
+    <img src="https://img.shields.io/github/v/release/mhmdwaelanwr/nautilus-code-new-file?style=for-the-badge" alt="Latest release" />
+  </a>
+</p>
 
 ### Markdown Creator Ecosystem
 
