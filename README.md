@@ -20,10 +20,6 @@ Computer Science student at **Arab Open University, Egypt** with hands-on experi
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🎮 [PadScope](https://github.com/mhmdwaelanwr/PadScope)
 
 Windows gamepad diagnostics and compatibility toolkit focused on DualShock 4 controllers and affordable DS4-compatible clones.
@@ -34,9 +30,6 @@ Windows gamepad diagnostics and compatibility toolkit focused on DualShock 4 con
 - Exports structured JSON and Markdown reports
 - Maintains evidence-based compatibility profiles
 - Designed around safe, staged hardware testing
-
-</td>
-<td width="50%" valign="top">
 
 ### 🐧 [Nautilus Code New File](https://github.com/mhmdwaelanwr/nautilus-code-new-file)
 
@@ -49,11 +42,6 @@ Linux extension that creates developer files directly from the GNOME Files right
 - Automated installer and uninstaller
 - CI with Ruff, ShellCheck, and unit tests
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🛡️ [Falling App](https://github.com/mhmdwaelanwr/Falling-App)
 
 Cross-platform fall-detection and emergency-response interface built around a persistent, manually acknowledged safety alert.
@@ -65,9 +53,6 @@ Cross-platform fall-detection and emergency-response interface built around a pe
 - Persistent siren and emergency workflow
 - Debug simulation for hardware-free testing
 
-</td>
-<td width="50%" valign="top">
-
 ### ✍️ [README Creator](https://www.readmecreator.studio/app)
 
 A live developer tool for creating and previewing structured GitHub README and Markdown content.
@@ -78,10 +63,6 @@ A live developer tool for creating and previewing structured GitHub README and M
 - Cross-platform product implementation
 - Flutter version with Firebase and Gemini integration
 - Public web deployment
-
-</td>
-</tr>
-</table>
 
 ## Working With
 
