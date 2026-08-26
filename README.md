@@ -2,108 +2,120 @@
 
 # Mohamed Anwar
 
-### Software Developer building mobile apps, backend tools, and practical automation
+### Software Engineer · Developer Tools · Systems · Applied AI
 
-Computer Science student at **Arab Open University, Egypt** with hands-on experience across mobile development, backend APIs, Linux tooling, and cross-platform software.
+I build practical software that sits close to real workflows: developer tools, desktop applications, automation, hardware diagnostics, and AI-assisted systems.
 
-<p>
-  <a href="https://www.linkedin.com/in/mhmdwaelanwr"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.readmecreator.studio/app"><img src="https://img.shields.io/badge/Live_Project-README_Creator-2EA043?style=for-the-badge&logo=vercel&logoColor=white" alt="README Creator"></a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Huawei_ICT_Competition-Computing_Silver_2025-EA4335?style=flat-square" alt="Huawei ICT Competition Computing Silver 2025">
-  <img src="https://img.shields.io/badge/AOU-Computer_Science-0A66C2?style=flat-square" alt="AOU Computer Science">
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-mhmdwaelanwr-181717?style=flat-square&logo=github)](https://github.com/mhmdwaelanwr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Anwar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhmdwaelanwr)
+[![Email](https://img.shields.io/badge/Email-mhmdwaelanwr%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mhmdwaelanwr@gmail.com)
 
 </div>
 
-## Featured Projects
+---
 
-### 🎮 [PadScope](https://github.com/mhmdwaelanwr/PadScope)
+## What I work on
 
-Windows gamepad diagnostics and compatibility toolkit focused on DualShock 4 controllers and affordable DS4-compatible clones.
+- **Developer tooling & automation** — utilities that remove repetitive work and improve engineering workflows.
+- **Desktop & systems software** — Windows/Linux tooling, diagnostics, packaging, CI/CD, and lower-level integration.
+- **Applied AI** — vision-assisted workflows, multi-provider model integration, resilient processing, and human-review pipelines.
+- **Cross-platform applications** — Kotlin Multiplatform, Flutter, web, and backend services when the problem calls for them.
 
-**Built with:** C#, .NET 8, WPF, CLI, GitHub Actions
+I care about understanding what is happening underneath the abstraction, not only making the happy path work.
 
-- Inspects controller identity and connection hints
-- Exports structured JSON and Markdown reports
-- Maintains evidence-based compatibility profiles
-- Designed around safe, staged hardware testing
+## Selected work
 
-### 🐧 [Nautilus Code New File](https://github.com/mhmdwaelanwr/nautilus-code-new-file)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Linux extension that creates developer files directly from the GNOME Files right-click menu.
+### [AI Product Photo Sorter](https://github.com/mhmdwaelanwr/ai-product-photo-sorter)
 
-**Built with:** Python, Bash, Nautilus, Zenity
+Turns chronological product-shoot photos into an organized, reviewable catalog using vision models.
 
-- Categorized templates for common file types
-- Safe filename validation
-- Automated installer and uninstaller
-- CI with Ruff, ShellCheck, and unit tests
+**Python · Desktop GUI + CLI · Gemini / OpenAI / Anthropic · SQLite · CI/CD**
 
-### 🛡️ [Falling App](https://github.com/mhmdwaelanwr/Falling-App)
+- Multi-provider vision with fallback and key rotation
+- Crash-safe resumable processing
+- Windows, Linux, and macOS builds
+- Published on PyPI and GitHub Releases
 
-Cross-platform fall-detection and emergency-response interface built around a persistent, manually acknowledged safety alert.
+</td>
+<td width="50%" valign="top">
 
-**Built with:** Kotlin Multiplatform, Compose Multiplatform
+### [PadScope](https://github.com/mhmdwaelanwr/PadScope)
 
-- Shared cross-platform UI and state logic
-- Android foreground alert service
-- Persistent siren and emergency workflow
-- Debug simulation for hardware-free testing
+Windows toolkit for understanding what game controllers actually support on PC.
 
-### ✍️ [README Creator](https://www.readmecreator.studio/app)
+**C# · .NET 8 · WPF · HID · ViGEmBus · GitHub Actions**
 
-A live developer tool for creating and previewing structured GitHub README and Markdown content.
+- Live controller and HID diagnostics
+- Compatibility reporting and capture/replay
+- Virtual controller routing and remapping
+- Controlled hardware-output testing
 
-**Projects:** [Flutter app](https://github.com/mhmdwaelanwr/Markdown-Creator-Dart) · [Web app](https://github.com/mhmdwaelanwr/Readme-Creator-Web)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- Live Markdown authoring experience
-- Cross-platform product implementation
-- Flutter version with Firebase and Gemini integration
-- Public web deployment
+### [Nautilus Code New File](https://github.com/mhmdwaelanwr/nautilus-code-new-file)
 
-## Working With
+GNOME Files extension for creating developer files directly from the context menu.
+
+**Python · Bash · Nautilus · Zenity · Linux**
+
+- Categorized developer templates
+- Safe filename handling
+- Installer/uninstaller tooling
+- Automated linting and tests
+
+</td>
+<td width="50%" valign="top">
+
+### [Falling App](https://github.com/mhmdwaelanwr/Falling-App)
+
+Cross-platform fall-detection and emergency-response application.
+
+**Kotlin Multiplatform · Compose Multiplatform · Android**
+
+- Shared application state and UI
+- Foreground emergency alert workflow
+- Persistent acknowledgement flow
+- Hardware-free debug simulation
+
+</td>
+</tr>
+</table>
+
+## Engineering toolbox
+
+**Languages**  
+Python · C# · Kotlin · Java · Dart · TypeScript · JavaScript · Bash · PowerShell
+
+**Platforms & frameworks**  
+.NET 8 · WPF · Kotlin Multiplatform · Compose Multiplatform · Flutter · Node.js · Express · Firebase
+
+**Systems & delivery**  
+Linux · Ubuntu · Git · GitHub Actions · Docker · REST APIs · SQLite · packaging & releases · debugging & troubleshooting
+
+## Beyond the code
+
+- Computer Science student at **Arab Open University, Egypt**
+- **Silver — Huawei ICT Competition 2025, Computing Track**
+- Background in networking fundamentals and CCNA coursework
+- Currently deepening my work in **AI systems, ML infrastructure, cloud, containers, model serving, and observability**
+
+## GitHub activity
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,react,ts,js,nodejs,express,python,linux,bash,powershell,firebase,git,github,androidstudio,vscode&perline=9" alt="Technologies I work with">
-</div>
-
-| Area | Technologies |
-|---|---|
-| **Mobile & Cross-Platform** | Kotlin, Java, Kotlin Multiplatform, Compose Multiplatform, Flutter, Dart, React Native, TypeScript |
-| **Backend & Automation** | Node.js, Express.js, REST APIs, Python, Bash, PowerShell |
-| **Systems & Tooling** | Linux, Ubuntu, Red Hat, Git, GitHub Actions, SSH, troubleshooting |
-| **Networking Fundamentals** | IP addressing, subnetting, DNS, DHCP, TCP/UDP, Cisco Packet Tracer |
-
-## Currently Learning
-
-Building toward **AI Systems, ML Infrastructure, and MLOps** through a practical roadmap:
-
-`Linux administration → Python automation → Networking → AWS → Docker & CI/CD → FastAPI → Model serving & monitoring`
-
-## Background
-
-- Studying Computer Science at **Arab Open University (AOU), Egypt**
-- Earned **Computing Silver at the Huawei ICT Competition 2025**
-- Trained in networking fundamentals through **CCNA coursework**
-- Started building Android projects during school, then progressed from visual tools to Java, Kotlin, Flutter, and cross-platform engineering
-- Interested in developer tools, hardware diagnostics, reliable automation, and AI infrastructure
-
-## GitHub Activity
-
-<div align="center">
-  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhmdwaelanwr&theme=github_dark" alt="Mohamed Anwar GitHub contribution profile">
-</div>
-
-<div align="center">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mhmdwaelanwr&theme=github_dark" alt="Repositories per language">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mhmdwaelanwr&theme=github_dark" alt="Most committed languages">
+  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhmdwaelanwr&theme=github_dark" alt="Mohamed Anwar GitHub activity">
 </div>
 
 ---
 
 <div align="center">
-  <strong>Building practical software, learning systems deeply, and moving toward AI infrastructure.</strong>
+
+**I like building things that are useful, testable, and understandable all the way down.**
+
 </div>
