@@ -11,7 +11,7 @@ I build practical software across developer tooling, systems, backend services, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Anwar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhmdwaelanwr)
 [![GitHub](https://img.shields.io/badge/GitHub-mhmdwaelanwr-181717?style=flat-square&logo=github)](https://github.com/mhmdwaelanwr)
 [![Email](https://img.shields.io/badge/Email-mhmdwaelanwr%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mhmdwaelanwr@gmail.com)
-[![Live Project](https://img.shields.io/badge/Live_Project-README_Creator-2EA043?style=flat-square&logo=vercel&logoColor=white)](https://www.readmecreator.studio/app)
+[![Markdown Creator](https://img.shields.io/badge/Project-Markdown_Creator-2EA043?style=flat-square&logo=markdown&logoColor=white)](https://github.com/mhmdwaelanwr/Markdown-Creator-Dart)
 
 </div>
 
@@ -128,15 +128,15 @@ Reproducible investigation of suspend/resume failures on an ASUS TUF Gaming F15 
 </tr>
 </table>
 
-## Live product
+## Markdown Creator
 
-### [README Creator](https://www.readmecreator.studio/app)
+### [Markdown Creator](https://github.com/mhmdwaelanwr/Markdown-Creator-Dart)
 
-Live developer tool for creating, previewing, and structuring GitHub README and Markdown content.
+Cross-platform developer tool for creating, previewing, and structuring professional Markdown and GitHub README content.
 
 **Flutter · Firebase · Gemini · Web**
 
-[Flutter repository](https://github.com/mhmdwaelanwr/Markdown-Creator-Dart) · [Web repository](https://github.com/mhmdwaelanwr/Readme-Creator-Web) · [Open live app](https://www.readmecreator.studio/app)
+[Repository](https://github.com/mhmdwaelanwr/Markdown-Creator-Dart) · [Open live app](https://www.readmecreator.studio/app)
 
 ## Engineering toolbox
 
