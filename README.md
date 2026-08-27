@@ -6,11 +6,21 @@
 
 **Python · C# · Kotlin · Linux · Backend Engineering · Automation · CI/CD**
 
-I build practical software across developer tooling, backend systems, desktop applications, Linux, automation, and applied AI. I care about reliable behavior, clear technical decisions, and understanding how systems work beneath the abstraction.
+I build practical software across developer tooling, backend systems, desktop applications, Linux, automation, and applied AI — with an emphasis on reliable behavior, clear technical decisions, and understanding how systems work beneath the abstraction.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Anwar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhmdwaelanwr)
-[![GitHub](https://img.shields.io/badge/GitHub-mhmdwaelanwr-181717?style=flat-square&logo=github)](https://github.com/mhmdwaelanwr)
-[![Email](https://img.shields.io/badge/Email-mhmdwaelanwr%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mhmdwaelanwr@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/mhmdwaelanwr"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/mhmdwaelanwr"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:mhmdwaelanwr@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Huawei_ICT_Competition-Silver_Medal-6B7280?style=flat-square" alt="Huawei ICT Competition Silver Medal">
+  <img src="https://img.shields.io/badge/Focus-Developer_Tools_%26_Systems-2563EB?style=flat-square" alt="Developer Tools and Systems">
+  <img src="https://img.shields.io/badge/Engineering-Backend_%26_Applied_AI-0F766E?style=flat-square" alt="Backend Engineering and Applied AI">
+</p>
+
+[About](#about) · [Projects](#selected-projects) · [Toolbox](#engineering-toolbox) · [Recognition](#education--recognition) · [Activity](#github-activity)
 
 </div>
 
@@ -22,19 +32,35 @@ I'm a Computer Science student at **Arab Open University (AOU)** in a dual-degre
 
 My work ranges from cross-platform desktop tools and hardware diagnostics to full-stack services, Linux systems investigations, CI/CD pipelines, and AI-assisted workflows. I prefer building software that is **useful, testable, maintainable, and well documented**.
 
-### Current roles
+<table>
+<tr>
+<td width="33%" valign="top">
+<strong>Current roles</strong><br><br>
+Front-End Development Trainee<br>
+<sub>Digital Egypt Pioneers Initiative (DEPI)</sub>
+</td>
+<td width="33%" valign="top">
+<strong>Building</strong><br><br>
+Founder & Owner — Elitedom<br>
+<sub>Technology commerce & software platform</sub>
+</td>
+<td width="33%" valign="top">
+<strong>Independent work</strong><br><br>
+Software Developer<br>
+<sub>Tools · Systems · Backend · Applied AI</sub>
+</td>
+</tr>
+</table>
 
-- **Front-End Development Trainee** — Digital Egypt Pioneers Initiative (DEPI)
-- **Founder & Owner** — Elitedom
-- **Independent Software Developer** — Self-employed
-
-## What I build
+### Engineering focus
 
 - **Developer tools & automation** — utilities that reduce repetitive work and improve engineering workflows.
 - **Systems & diagnostics** — Linux/Windows tooling, hardware-facing diagnostics, debugging, packaging, and lower-level investigation.
 - **Backend & platform engineering** — APIs, transactional data, background processing, integrations, and operational tooling.
 - **Applied AI** — computer-vision workflows, multi-provider model integration, resilient processing, and human-review pipelines.
 - **Delivery engineering** — Git, automated tests, GitHub Actions, CI/CD, Docker, releases, and technical documentation.
+
+---
 
 ## Selected projects
 
@@ -145,7 +171,9 @@ Reproducible systems investigation of suspend/resume failures on an ASUS TUF Gam
 </tr>
 </table>
 
-## More work
+<details>
+<summary><strong>More work — Markdown Creator</strong></summary>
+<br>
 
 ### [Markdown Creator](https://github.com/mhmdwaelanwr/Markdown-Creator-Dart)
 
@@ -155,33 +183,55 @@ Cross-platform developer tool for creating and structuring Markdown and GitHub R
 
 [Repository](https://github.com/mhmdwaelanwr/Markdown-Creator-Dart) · [Live web app](https://www.readmecreator.studio/app)
 
+</details>
+
+---
+
 ## Engineering toolbox
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,dotnet,kotlin,java,ts,js,react,nodejs,flutter,dart,fastapi,postgres,docker,linux,bash,git,github&perline=9" alt="Technologies Mohamed Anwar works with">
 </div>
 
-**Languages**  
-Python · C# · Kotlin · Java · TypeScript · JavaScript · Dart · Bash · PowerShell · C++
+<br>
 
-**Backend & data**  
-FastAPI · REST APIs · PostgreSQL · SQLite · Redis · Celery · Node.js · Express.js
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Python · C# · Kotlin · Java · TypeScript · JavaScript · Dart · Bash · PowerShell · C++ |
+| **Backend & data** | FastAPI · REST APIs · PostgreSQL · SQLite · Redis · Celery · Node.js · Express.js |
+| **Systems & delivery** | Linux · Ubuntu · Git · GitHub Actions · Docker · CI/CD · Nginx · packaging · releases · debugging |
+| **Desktop, mobile & frontend** | .NET 8 · WPF · React · Tailwind CSS · Flutter · Android · Kotlin Multiplatform · Compose Multiplatform |
+| **Applied AI** | Computer vision · multi-provider model integration · API integration · automation · resilient batch processing |
 
-**Systems & delivery**  
-Linux · Ubuntu · Git · GitHub Actions · Docker · CI/CD · Nginx · packaging · releases · debugging · troubleshooting
-
-**Desktop, mobile & frontend**  
-.NET 8 · WPF · React · Tailwind CSS · Flutter · Android · Kotlin Multiplatform · Compose Multiplatform
-
-**Applied AI**  
-Computer vision workflows · multi-provider model integration · API integration · automation · resilient batch processing
+---
 
 ## Education & recognition
 
-- **B.Sc. Computer Science** — Arab Open University (AOU), dual-degree programme with The Open University, UK · 2024–Present
-- **Huawei ICT Competition 2025–2026 — Silver Medal, Computing Track (National Phase)**
-- **Flutter Development Diploma — Top Achiever, Route** · Apr 2026
-- **IEEE CASS Competition 2026 — University Track Participant**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Education
+
+**B.Sc. Computer Science**  
+Arab Open University (AOU)  
+Dual-degree programme with The Open University, UK  
+**2024 – Present**
+
+</td>
+<td width="50%" valign="top">
+
+### Recognition
+
+- **Huawei ICT Competition 2025–2026** — Silver Medal, Computing Track (National Phase)
+- **Flutter Development Diploma** — Top Achiever, Route · Apr 2026
+- **IEEE CASS Competition 2026** — University Track Participant
+
+</td>
+</tr>
+</table>
+
+---
 
 ## GitHub activity
 
@@ -198,6 +248,8 @@ Computer vision workflows · multi-provider model integration · API integration
 
 <div align="center">
 
-**Building practical software with a systems-oriented engineering mindset.**
+### Building practical software with a systems-oriented engineering mindset.
+
+<sub>Developer tools · Systems · Backend Engineering · Applied AI</sub>
 
 </div>
