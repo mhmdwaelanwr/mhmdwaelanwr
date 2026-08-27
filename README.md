@@ -4,26 +4,35 @@
 
 ### Software Engineer · Developer Tools · Systems · Applied AI
 
-I build practical software that sits close to real workflows: developer tools, desktop applications, automation, hardware diagnostics, and AI-assisted systems.
+**Python · C# · Kotlin · Linux · Automation · CI/CD · Backend Engineering**
 
-[![GitHub](https://img.shields.io/badge/GitHub-mhmdwaelanwr-181717?style=flat-square&logo=github)](https://github.com/mhmdwaelanwr)
+I build practical software across developer tooling, systems, backend services, desktop applications, automation, and applied AI — with an emphasis on understanding what happens beneath the abstraction and shipping work that is testable, maintainable, and useful.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Anwar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhmdwaelanwr)
+[![GitHub](https://img.shields.io/badge/GitHub-mhmdwaelanwr-181717?style=flat-square&logo=github)](https://github.com/mhmdwaelanwr)
 [![Email](https://img.shields.io/badge/Email-mhmdwaelanwr%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mhmdwaelanwr@gmail.com)
 
 </div>
 
 ---
 
-## What I work on
+## Profile
 
-- **Developer tooling & automation** — utilities that remove repetitive work and improve engineering workflows.
-- **Desktop & systems software** — Windows/Linux tooling, diagnostics, packaging, CI/CD, and lower-level integration.
-- **Applied AI** — vision-assisted workflows, multi-provider model integration, resilient processing, and human-review pipelines.
-- **Cross-platform applications** — Kotlin Multiplatform, Flutter, web, and backend services when the problem calls for them.
+- Computer Science student at **Arab Open University (AOU)** in a dual-degree programme with **The Open University, UK**.
+- **Front-End Development Trainee** at the Digital Egypt Pioneers Initiative (**DEPI**).
+- **Founder & Owner of Elitedom**, an early-stage hardware, gaming, and technology commerce brand.
+- **Independent Software Developer** working across developer tools, backend systems, desktop software, automation, Linux, and applied AI.
+- **Silver Medal — Huawei ICT Competition 2025–2026, Computing Track, National Phase**.
 
-I care about understanding what is happening underneath the abstraction, not only making the happy path work.
+## Engineering focus
 
-## Selected work
+- **Developer tools & automation** — utilities that remove repetitive work and improve engineering workflows.
+- **Systems & diagnostics** — Linux/Windows tooling, hardware-facing diagnostics, debugging, packaging, and lower-level investigation.
+- **Backend engineering** — APIs, transactional data, background processing, integrations, and production-oriented service design.
+- **Applied AI** — computer-vision workflows, multi-provider model integration, resilient processing, and human-review pipelines.
+- **Delivery engineering** — Git, automated tests, GitHub Actions, CI/CD, release workflows, Docker, and operational documentation.
+
+## Selected engineering work
 
 <table>
 <tr>
@@ -31,28 +40,58 @@ I care about understanding what is happening underneath the abstraction, not onl
 
 ### [AI Product Photo Sorter](https://github.com/mhmdwaelanwr/ai-product-photo-sorter)
 
-Turns chronological product-shoot photos into an organized, reviewable catalog using vision models.
+Cross-platform AI-assisted product-photo organization with a shared desktop GUI + CLI engine.
 
-**Python · Desktop GUI + CLI · Gemini / OpenAI / Anthropic · SQLite · CI/CD**
+**Python · SQLite · Gemini / OpenAI / Anthropic · CI/CD**
 
-- Multi-provider vision with fallback and key rotation
-- Crash-safe resumable processing
-- Windows, Linux, and macOS builds
-- Published on PyPI and GitHub Releases
+- Multi-provider vision with ordered fallback and API-key rotation
+- Crash-safe resume backed by SQLite
+- Arabic, English, and Chinese UI support
+- Windows, Linux, macOS releases + PyPI distribution
 
 </td>
 <td width="50%" valign="top">
 
 ### [PadScope](https://github.com/mhmdwaelanwr/PadScope)
 
-Windows toolkit for understanding what game controllers actually support on PC.
+Windows gamepad diagnostics, compatibility, remapping, and experimentation toolkit.
 
 **C# · .NET 8 · WPF · HID · ViGEmBus · GitHub Actions**
 
-- Live controller and HID diagnostics
-- Compatibility reporting and capture/replay
-- Virtual controller routing and remapping
+- Live controller/HID diagnostics and report-health telemetry
+- Capture/replay and evidence-based compatibility reports
 - Controlled hardware-output testing
+- Virtual-controller routing and remapping profiles
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Elitedom Commerce Platform](https://github.com/mhmdwaelanwr/elitedom-commerce-platform)
+
+Production-oriented commerce platform for a technology retail business, with public deployment still gated on real environment validation.
+
+**React · TypeScript · FastAPI · PostgreSQL · Redis/Celery · Odoo · Docker**
+
+- Storefront, admin, authentication, payments, and ERP integration
+- PostgreSQL + Alembic transactional data layer
+- Background processing and operational health/readiness hooks
+- CI and release-candidate quality gates
+
+</td>
+<td width="50%" valign="top">
+
+### [PrismSpace](https://github.com/mhmdwaelanwr/PrismSpace)
+
+Experimental Android application virtualization and multi-instance runtime research built on open-source virtualization foundations.
+
+**Kotlin / Java · Android · Binder · Native Runtime · ARM64 / ARMv7**
+
+- Binder/framework interception and virtual system layers
+- Per-clone runtime policy and native I/O enforcement
+- Capability-driven compatibility reporting
+- Jetpack Compose host interface and native CI probes
 
 </td>
 </tr>
@@ -61,28 +100,28 @@ Windows toolkit for understanding what game controllers actually support on PC.
 
 ### [Nautilus Code New File](https://github.com/mhmdwaelanwr/nautilus-code-new-file)
 
-GNOME Files extension for creating developer files directly from the context menu.
+GNOME Files extension for creating developer files directly from the Nautilus context menu.
 
 **Python · Bash · Nautilus · Zenity · Linux**
 
 - Categorized developer templates
-- Safe filename handling
+- Safe filename validation
 - Installer/uninstaller tooling
-- Automated linting and tests
+- Ruff, ShellCheck, unit tests, and CI
 
 </td>
 <td width="50%" valign="top">
 
-### [Falling App](https://github.com/mhmdwaelanwr/Falling-App)
+### [ASUS FX507VV Linux Suspend Investigation](https://github.com/mhmdwaelanwr/asus-fx507vv-linux-suspend-investigation)
 
-Cross-platform fall-detection and emergency-response application.
+Reproducible investigation of suspend/resume failures on an ASUS TUF Gaming F15 under Ubuntu Linux.
 
-**Kotlin Multiplatform · Compose Multiplatform · Android**
+**Linux · ACPI / EC · Kernel · NVIDIA · Diagnostics**
 
-- Shared application state and UI
-- Foreground emergency alert workflow
-- Persistent acknowledgement flow
-- Hardware-free debug simulation
+- Controlled test matrix across kernels, drivers, PRIME modes, and wake sources
+- ACPI/EC and AML tracing with captured evidence
+- Isolated unreliable `deep`/S3 behavior from working `s2idle`
+- Documented practical workaround and upstream-ready findings
 
 </td>
 </tr>
@@ -90,21 +129,28 @@ Cross-platform fall-detection and emergency-response application.
 
 ## Engineering toolbox
 
-**Languages**  
-Python · C# · Kotlin · Java · Dart · TypeScript · JavaScript · Bash · PowerShell
+**Core languages**  
+Python · C# · Kotlin · Java · TypeScript · JavaScript · Dart · Bash · PowerShell · C++
 
-**Platforms & frameworks**  
-.NET 8 · WPF · Kotlin Multiplatform · Compose Multiplatform · Flutter · Node.js · Express · Firebase
+**Backend & delivery**  
+FastAPI · REST APIs · PostgreSQL · SQLite · Redis · Celery · Git · GitHub Actions · Docker · CI/CD · Nginx
 
-**Systems & delivery**  
-Linux · Ubuntu · Git · GitHub Actions · Docker · REST APIs · SQLite · packaging & releases · debugging & troubleshooting
+**Desktop, systems & diagnostics**  
+Linux · Ubuntu · .NET 8 · WPF · HID · debugging · troubleshooting · packaging · release workflows
 
-## Beyond the code
+**Frontend & cross-platform**  
+React · Node.js · Tailwind CSS · Flutter · Android · Kotlin Multiplatform · Compose Multiplatform
 
-- Computer Science student at **Arab Open University, Egypt**
-- **Silver — Huawei ICT Competition 2025, Computing Track**
-- Background in networking fundamentals and CCNA coursework
-- Currently deepening my work in **AI systems, ML infrastructure, cloud, containers, model serving, and observability**
+**Applied AI**  
+Computer vision workflows · multi-provider model integration · API integration · automation · resilient batch processing
+
+## Experience & recognition
+
+- **Founder & Owner — Elitedom** · 2026–Present
+- **Front-End Development Trainee — Digital Egypt Pioneers Initiative (DEPI)** · 2026–Present
+- **Independent Software Developer** · 2024–Present
+- **Huawei ICT Competition 2025–2026 — Silver Medal, Computing Track (National Phase)**
+- **Flutter Development Diploma — Top Achiever, Route**
 
 ## GitHub activity
 
@@ -116,6 +162,6 @@ Linux · Ubuntu · Git · GitHub Actions · Docker · REST APIs · SQLite · pac
 
 <div align="center">
 
-**I like building things that are useful, testable, and understandable all the way down.**
+**Build useful things. Understand how they work. Make them easier to trust.**
 
 </div>
