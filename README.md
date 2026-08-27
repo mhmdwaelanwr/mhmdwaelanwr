@@ -2,11 +2,11 @@
 
 # Mohamed Anwar
 
-### Software Engineer | Developer Tools, Systems & Applied AI
+### Software Engineer — Developer Tools, Systems & Applied AI
 
-**Python · C# · Kotlin · Linux · Automation · CI/CD · Backend Engineering**
+**Python · C# · Kotlin · Linux · Backend Engineering · Automation · CI/CD**
 
-I build practical software across developer tools, backend systems, desktop applications, automation, Linux, and applied AI — with a focus on reliable engineering, clear technical decisions, and understanding how systems behave beneath the abstraction.
+I build practical software across developer tooling, backend systems, desktop applications, Linux, automation, and applied AI. I care about reliable behavior, clear technical decisions, and understanding how systems work beneath the abstraction.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Anwar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhmdwaelanwr)
 [![GitHub](https://img.shields.io/badge/GitHub-mhmdwaelanwr-181717?style=flat-square&logo=github)](https://github.com/mhmdwaelanwr)
@@ -18,19 +18,25 @@ I build practical software across developer tools, backend systems, desktop appl
 
 ## About
 
-I'm a Computer Science student at **Arab Open University (AOU)** in a dual-degree programme with **The Open University, UK**, and a software engineer interested in developer tools, systems, backend engineering, automation, and applied AI.
+I'm a Computer Science student at **Arab Open University (AOU)** in a dual-degree programme with **The Open University, UK**, and a software engineer focused on developer tools, systems, backend engineering, automation, and applied AI.
 
-My work spans Python and C# tooling, Linux systems, desktop software, full-stack services, CI/CD, hardware-facing diagnostics, and AI-assisted workflows. I care about building software that is practical, testable, maintainable, and well documented.
+My work ranges from cross-platform desktop tools and hardware diagnostics to full-stack services, Linux systems investigations, CI/CD pipelines, and AI-assisted workflows. I prefer building software that is **useful, testable, maintainable, and well documented**.
 
-## Experience
+### Current roles
 
-| Role | Organization | Period | Focus |
-| --- | --- | --- | --- |
-| **Front-End Development Trainee** | Digital Egypt Pioneers Initiative (DEPI) | Jul 2026 – Present | Modern front-end development, JavaScript, React, HTML/CSS, Tailwind CSS, Git-based workflows |
-| **Founder & Owner** | Elitedom | Jun 2026 – Present | Technology commerce, e-commerce operations, product direction, and the software platform supporting the business |
-| **Independent Software Developer** | Self-employed | Nov 2024 – Present | Developer tools, backend systems, desktop software, Linux, automation, applied AI, CI/CD, and cross-platform development |
+- **Front-End Development Trainee** — Digital Egypt Pioneers Initiative (DEPI)
+- **Founder & Owner** — Elitedom
+- **Independent Software Developer** — Self-employed
 
-## Selected engineering work
+## What I build
+
+- **Developer tools & automation** — utilities that reduce repetitive work and improve engineering workflows.
+- **Systems & diagnostics** — Linux/Windows tooling, hardware-facing diagnostics, debugging, packaging, and lower-level investigation.
+- **Backend & platform engineering** — APIs, transactional data, background processing, integrations, and operational tooling.
+- **Applied AI** — computer-vision workflows, multi-provider model integration, resilient processing, and human-review pipelines.
+- **Delivery engineering** — Git, automated tests, GitHub Actions, CI/CD, Docker, releases, and technical documentation.
+
+## Selected projects
 
 <table>
 <tr>
@@ -42,10 +48,10 @@ Cross-platform product-photo organization tool with a shared desktop GUI + CLI e
 
 **Python · SQLite · Gemini / OpenAI / Anthropic · CI/CD**
 
-- Multi-provider vision, fallback, and API-key rotation
-- Crash-safe resumable processing with SQLite
+- Multi-provider vision with ordered fallback and API-key rotation
+- Crash-safe resumable processing backed by SQLite
 - Arabic, English, and Chinese UI support
-- Windows, Linux, macOS releases and PyPI distribution
+- Windows, Linux, and macOS releases plus PyPI distribution
 
 [Repository](https://github.com/mhmdwaelanwr/ai-product-photo-sorter) · [PyPI](https://pypi.org/project/ai-product-photo-sorter/) · [Latest release](https://github.com/mhmdwaelanwr/ai-product-photo-sorter/releases/latest)
 
@@ -58,8 +64,8 @@ Windows gamepad diagnostics, compatibility, remapping, and experimentation toolk
 
 **C# · .NET 8 · WPF · HID · ViGEmBus · GitHub Actions**
 
-- Live controller/HID diagnostics and report-health telemetry
-- Capture/replay and evidence-based compatibility reports
+- Live controller and HID diagnostics
+- Capture/replay and compatibility reporting
 - Controlled hardware-output testing
 - Virtual-controller routing and remapping profiles
 
@@ -78,10 +84,10 @@ Full-stack commerce platform for Elitedom, designed around real retail workflows
 
 - Storefront, admin, authentication, payments, and ERP integration
 - PostgreSQL + Alembic transactional data layer
-- Background processing, observability hooks, and operational health checks
+- Background processing, health checks, and observability hooks
 - CI and release-candidate quality gates
 
-Public staging/production deployment remains environment-specific and is not represented as complete until validated.
+> Public staging/production deployment remains environment-specific and is not represented as complete until validated.
 
 [Repository](https://github.com/mhmdwaelanwr/elitedom-commerce-platform)
 
@@ -96,7 +102,7 @@ GNOME Files extension for creating developer files directly from the Nautilus co
 
 - Categorized developer templates
 - Safe filename validation
-- Installer/uninstaller tooling
+- Installer and uninstaller tooling
 - Ruff, ShellCheck, unit tests, and CI
 
 [Repository](https://github.com/mhmdwaelanwr/nautilus-code-new-file) · [Releases](https://github.com/mhmdwaelanwr/nautilus-code-new-file/releases)
@@ -112,7 +118,7 @@ Experimental Android application virtualization and multi-instance runtime resea
 
 **Kotlin / Java · Android · Binder · Native Runtime · ARM64 / ARMv7**
 
-- Binder/framework interception and virtual system layers
+- Binder and framework interception
 - Per-clone runtime policy and native I/O enforcement
 - Capability-driven compatibility reporting
 - Jetpack Compose host interface and native CI probes
@@ -139,7 +145,7 @@ Reproducible systems investigation of suspend/resume failures on an ASUS TUF Gam
 </tr>
 </table>
 
-## Additional project
+## More work
 
 ### [Markdown Creator](https://github.com/mhmdwaelanwr/Markdown-Creator-Dart)
 
@@ -147,7 +153,7 @@ Cross-platform developer tool for creating and structuring Markdown and GitHub R
 
 **Flutter · Firebase · Gemini · Web**
 
-[Repository](https://github.com/mhmdwaelanwr/Markdown-Creator-Dart) · [Live app](https://www.readmecreator.studio/app)
+[Repository](https://github.com/mhmdwaelanwr/Markdown-Creator-Dart) · [Live web app](https://www.readmecreator.studio/app)
 
 ## Engineering toolbox
 
@@ -172,7 +178,7 @@ Computer vision workflows · multi-provider model integration · API integration
 
 ## Education & recognition
 
-- **B.Sc. Computer Science** — Arab Open University (AOU), dual-degree programme with The Open University, UK · 2024 – Present
+- **B.Sc. Computer Science** — Arab Open University (AOU), dual-degree programme with The Open University, UK · 2024–Present
 - **Huawei ICT Competition 2025–2026 — Silver Medal, Computing Track (National Phase)**
 - **Flutter Development Diploma — Top Achiever, Route** · Apr 2026
 - **IEEE CASS Competition 2026 — University Track Participant**
@@ -192,6 +198,6 @@ Computer vision workflows · multi-provider model integration · API integration
 
 <div align="center">
 
-**Software engineering with a practical, systems-oriented mindset.**
+**Building practical software with a systems-oriented engineering mindset.**
 
 </div>
