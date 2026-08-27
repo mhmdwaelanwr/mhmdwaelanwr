@@ -11,6 +11,7 @@ I build practical software across developer tooling, systems, backend services, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Anwar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhmdwaelanwr)
 [![GitHub](https://img.shields.io/badge/GitHub-mhmdwaelanwr-181717?style=flat-square&logo=github)](https://github.com/mhmdwaelanwr)
 [![Email](https://img.shields.io/badge/Email-mhmdwaelanwr%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mhmdwaelanwr@gmail.com)
+[![Live Project](https://img.shields.io/badge/Live_Project-README_Creator-2EA043?style=flat-square&logo=vercel&logoColor=white)](https://www.readmecreator.studio/app)
 
 </div>
 
@@ -127,7 +128,21 @@ Reproducible investigation of suspend/resume failures on an ASUS TUF Gaming F15 
 </tr>
 </table>
 
+## Live product
+
+### [README Creator](https://www.readmecreator.studio/app)
+
+Live developer tool for creating, previewing, and structuring GitHub README and Markdown content.
+
+**Flutter · Firebase · Gemini · Web**
+
+[Flutter repository](https://github.com/mhmdwaelanwr/Markdown-Creator-Dart) · [Web repository](https://github.com/mhmdwaelanwr/Readme-Creator-Web) · [Open live app](https://www.readmecreator.studio/app)
+
 ## Engineering toolbox
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,kotlin,java,ts,js,react,nodejs,flutter,dart,fastapi,postgres,docker,linux,bash,git,github&perline=9" alt="Technologies Mohamed Anwar works with">
+</div>
 
 **Core languages**  
 Python · C# · Kotlin · Java · TypeScript · JavaScript · Dart · Bash · PowerShell · C++
@@ -144,6 +159,12 @@ React · Node.js · Tailwind CSS · Flutter · Android · Kotlin Multiplatform �
 **Applied AI**  
 Computer vision workflows · multi-provider model integration · API integration · automation · resilient batch processing
 
+## Current direction
+
+Deepening my work in **AI systems, ML infrastructure, cloud, containers, model serving, and observability** through practical engineering rather than isolated coursework.
+
+`Linux & Python automation → networking → cloud → Docker & CI/CD → FastAPI → model serving → monitoring`
+
 ## Experience & recognition
 
 - **Founder & Owner — Elitedom** · 2026–Present
@@ -156,6 +177,11 @@ Computer vision workflows · multi-provider model integration · API integration
 
 <div align="center">
   <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhmdwaelanwr&theme=github_dark" alt="Mohamed Anwar GitHub activity">
+</div>
+
+<div align="center">
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mhmdwaelanwr&theme=github_dark" alt="Repositories per language">
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mhmdwaelanwr&theme=github_dark" alt="Most committed languages">
 </div>
 
 ---
