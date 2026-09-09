@@ -8,7 +8,7 @@
 
 I build practical software across developer tooling, backend systems, desktop applications, Linux, automation, and applied AI — with a focus on reliable behavior, testability, maintainability, and clear technical decisions.
 
-[LinkedIn](https://www.linkedin.com/in/mhmdwaelanwr) · [Email](mailto:mhmdwaelanwr@gmail.com)
+[Portfolio](https://mohamed-anwar-portfolio-mhmdwaelanwrs-projects.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mhmdwaelanwr) · [Email](mailto:mhmdwaelanwr@gmail.com)
 
 </div>
 
@@ -26,19 +26,20 @@ Current work includes a **Front-End Development Traineeship at DEPI**, building 
 <tr>
 <td width="50%" valign="top">
 
-### [AI Product Photo Sorter](https://github.com/mhmdwaelanwr/ai-product-photo-sorter)
+### [CatalogMesh](https://github.com/mhmdwaelanwr/CatalogMesh)
 
-Cross-platform product-photo organization with a shared desktop GUI + CLI engine.
+AI workspace for product catalog operations — grouping, review, SKU matching, exports, storage, and guarded automation.
 
-**Python · SQLite · Gemini / OpenAI / Anthropic · CI/CD**
+**Python · SQLite · Gemini / OpenAI / Anthropic · Ollama · CI/CD**
 
 **Engineering highlights**
-- Multi-provider vision with ordered fallback and API-key rotation
+- Cloud and local vision workflows with provider fallback and API-key rotation
 - Crash-safe resumable processing backed by SQLite
-- Arabic, English, and Chinese UI support
+- Human review before catalog identity or externally visible publication
+- Approval-aware connector execution and bounded MCP tooling
 - Windows, Linux, and macOS releases
 
-**Evidence:** [PyPI](https://pypi.org/project/ai-product-photo-sorter/) · [Latest release](https://github.com/mhmdwaelanwr/ai-product-photo-sorter/releases/latest) · [Repository](https://github.com/mhmdwaelanwr/ai-product-photo-sorter)
+**Evidence:** [PyPI](https://pypi.org/project/catalogmesh/) · [Latest release](https://github.com/mhmdwaelanwr/CatalogMesh/releases/latest) · [Repository](https://github.com/mhmdwaelanwr/CatalogMesh)
 
 </td>
 <td width="50%" valign="top">
