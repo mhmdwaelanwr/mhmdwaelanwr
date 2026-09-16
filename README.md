@@ -10,6 +10,9 @@ I build practical software across developer tooling, backend systems, desktop ap
 
 [Portfolio](https://mohamed-anwar-portfolio-mhmdwaelanwrs-projects.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mhmdwaelanwr) · [Email](mailto:mhmdwaelanwr@gmail.com)
 
+<a href="https://github.com/mhmdwaelanwr/PrismSpace"><img alt="PrismSpace stars" src="https://img.shields.io/github/stars/mhmdwaelanwr/PrismSpace?style=flat-square&label=PrismSpace%20stars"></a>
+<a href="https://github.com/mhmdwaelanwr/CatalogMesh"><img alt="CatalogMesh stars" src="https://img.shields.io/github/stars/mhmdwaelanwr/CatalogMesh?style=flat-square&label=CatalogMesh%20stars"></a>
+
 </div>
 
 ---
@@ -19,6 +22,8 @@ I build practical software across developer tooling, backend systems, desktop ap
 Computer Science student at **Arab Open University (AOU)** in a dual-degree programme with **The Open University, UK**. I work across developer tools, systems, backend engineering, automation, hardware-facing diagnostics, and AI-assisted workflows.
 
 Current work includes a **Front-End Development Traineeship at DEPI**, building **Elitedom** as an early-stage technology commerce business and software platform, and independent software engineering across tools, systems, backend services, and applied AI.
+
+> **Open-source spotlight:** [PrismSpace](https://github.com/mhmdwaelanwr/PrismSpace) — experimental Android application virtualization and multi-instance runtime research with Binder interception, native I/O policy enforcement, and capability-driven compatibility reporting.
 
 ## Selected engineering work
 
