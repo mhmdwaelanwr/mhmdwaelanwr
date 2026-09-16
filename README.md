@@ -4,14 +4,11 @@
 
 ### Software Engineer — Developer Tools, Systems & Applied AI
 
-**Python · C# · Kotlin · Linux · Backend Engineering · Automation · CI/CD**
+**Python · C# · Kotlin / Java · Linux · Backend · Automation · CI/CD**
 
-I build practical software across developer tooling, backend systems, desktop applications, Linux, automation, and applied AI — with a focus on reliable behavior, testability, maintainability, and clear technical decisions.
+I build practical software products and engineering tools with an emphasis on reliability, reproducibility, automation, and clear technical decisions.
 
 [Portfolio](https://mohamed-anwar-portfolio-mhmdwaelanwrs-projects.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mhmdwaelanwr) · [Email](mailto:mhmdwaelanwr@gmail.com)
-
-<a href="https://github.com/mhmdwaelanwr/PrismSpace"><img alt="PrismSpace stars" src="https://img.shields.io/github/stars/mhmdwaelanwr/PrismSpace?style=flat-square&label=PrismSpace%20stars"></a>
-<a href="https://github.com/mhmdwaelanwr/CatalogMesh"><img alt="CatalogMesh stars" src="https://img.shields.io/github/stars/mhmdwaelanwr/CatalogMesh?style=flat-square&label=CatalogMesh%20stars"></a>
 
 </div>
 
@@ -19,34 +16,46 @@ I build practical software across developer tooling, backend systems, desktop ap
 
 ## About
 
-Computer Science student at **Arab Open University (AOU)** in a dual-degree programme with **The Open University, UK**. I work across developer tools, systems, backend engineering, automation, hardware-facing diagnostics, and AI-assisted workflows.
+Computer Science student at **Arab Open University (AOU)** in a dual-degree programme with **The Open University, UK**. My work spans developer tooling, backend systems, Linux, desktop software, hardware-facing diagnostics, Android runtime research, and applied AI.
 
-Current work includes a **Front-End Development Traineeship at DEPI**, building **Elitedom** as an early-stage technology commerce business and software platform, and independent software engineering across tools, systems, backend services, and applied AI.
+I am also a **Front-End Development Trainee at DEPI**, founder of **Elitedom**, and an independent software developer building tools around real workflows rather than demo-only projects.
 
-> **Open-source spotlight:** [PrismSpace](https://github.com/mhmdwaelanwr/PrismSpace) — experimental Android application virtualization and multi-instance runtime research with Binder interception, native I/O policy enforcement, and capability-driven compatibility reporting.
-
-## Selected engineering work
+## Featured engineering
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
+### [PrismSpace](https://github.com/mhmdwaelanwr/PrismSpace)
+
+Experimental Android application virtualization and multi-instance runtime research.
+
+**Kotlin / Java · Android · Binder · Native Runtime · ARM64 / ARMv7**
+
+- Binder and framework interception
+- Per-clone policy and native I/O enforcement
+- Capability-driven compatibility reporting
+- Native CI bring-up probes
+
+</td>
+<td width="50%" valign="top">
+
 ### [CatalogMesh](https://github.com/mhmdwaelanwr/CatalogMesh)
 
-AI workspace for product catalog operations — grouping, review, SKU matching, exports, storage, and guarded automation.
+AI workspace for grouping, reviewing, matching, and organizing product photos and catalog data.
 
 **Python · SQLite · Gemini / OpenAI / Anthropic · Ollama · CI/CD**
 
-**Engineering highlights**
-- Cloud and local vision workflows with provider fallback and API-key rotation
-- Crash-safe resumable processing backed by SQLite
-- Human review before catalog identity or externally visible publication
-- Approval-aware connector execution and bounded MCP tooling
-- Windows, Linux, and macOS releases
+- Multi-provider vision workflows and fallback
+- Crash-safe resumable processing
+- API-key rotation and guarded automation
+- Cross-platform releases
 
-**Evidence:** [PyPI](https://pypi.org/project/catalogmesh/) · [Latest release](https://github.com/mhmdwaelanwr/CatalogMesh/releases/latest) · [Repository](https://github.com/mhmdwaelanwr/CatalogMesh)
+[PyPI](https://pypi.org/project/catalogmesh/) · [Latest release](https://github.com/mhmdwaelanwr/CatalogMesh/releases/latest)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [PadScope](https://github.com/mhmdwaelanwr/PadScope)
@@ -55,34 +64,28 @@ Windows gamepad diagnostics, compatibility, remapping, and experimentation toolk
 
 **C# · .NET 8 · WPF · HID · ViGEmBus · GitHub Actions**
 
-**Engineering highlights**
 - Live controller and HID diagnostics
-- Capture/replay and evidence-based compatibility reporting
+- Capture/replay and compatibility reporting
 - Controlled hardware-output testing
-- Virtual-controller routing and remapping profiles
-
-**Status:** active development; hardware capabilities are reported conservatively when support is unknown.
+- Virtual-controller routing and profiles
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Elitedom Commerce Platform](https://github.com/mhmdwaelanwr/elitedom-commerce-platform)
 
-Full-stack commerce platform designed around real technology-retail workflows and production-oriented engineering practices.
+Full-stack commerce platform designed around real technology-retail workflows.
 
 **React · TypeScript · FastAPI · PostgreSQL · Redis/Celery · Odoo · Docker**
 
-**Engineering highlights**
-- Storefront, admin, authentication, payments, and ERP integration
+- Storefront, admin, authentication, and payments
 - PostgreSQL + Alembic transactional data layer
-- Background processing, health checks, and observability hooks
+- Background processing and observability hooks
 - CI and release-candidate quality gates
 
-**Deployment note:** public staging/production remains environment-specific and is not represented as complete until validated.
-
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Nautilus Code New File](https://github.com/mhmdwaelanwr/nautilus-code-new-file)
@@ -91,34 +94,12 @@ GNOME Files extension for creating developer files directly from the Nautilus co
 
 **Python · Bash · Nautilus · Zenity · Linux**
 
-**Engineering highlights**
 - Categorized developer templates
 - Safe filename validation
-- Installer and uninstaller tooling
-- Ruff, ShellCheck, unit tests, and CI
+- Installer / uninstaller tooling
+- Ruff, ShellCheck, tests, and CI
 
-**Evidence:** [Releases](https://github.com/mhmdwaelanwr/nautilus-code-new-file/releases) · [Repository](https://github.com/mhmdwaelanwr/nautilus-code-new-file)
-
-</td>
-</tr>
-</table>
-
-## Systems & research
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [PrismSpace](https://github.com/mhmdwaelanwr/PrismSpace)
-
-Experimental Android application virtualization and multi-instance runtime research that extends established open-source virtualization foundations.
-
-**Kotlin / Java · Android · Binder · Native Runtime · ARM64 / ARMv7**
-
-- Binder and framework interception
-- Per-clone runtime policy and native I/O enforcement
-- Capability-driven compatibility reporting
-- Jetpack Compose host interface and native CI probes
+[Releases](https://github.com/mhmdwaelanwr/nautilus-code-new-file/releases)
 
 </td>
 <td width="50%" valign="top">
@@ -129,47 +110,31 @@ Reproducible systems-debugging case study for suspend/resume failures on an ASUS
 
 **Linux · ACPI / EC · Kernel · NVIDIA · Diagnostics**
 
-- Controlled testing across kernels, drivers, PRIME modes, and wake sources
-- ACPI/EC and AML tracing with captured evidence
-- Isolated unreliable `deep`/S3 behavior from working `s2idle`
-- Documented workaround and upstream-ready findings
+- Controlled kernel, driver, and PRIME testing
+- ACPI/EC and AML tracing
+- Reproducible failure isolation
+- Documented working workaround
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><strong>Additional project — Markdown Creator</strong></summary>
-<br>
-
-### [Markdown Creator](https://github.com/mhmdwaelanwr/Markdown-Creator-Dart)
-
-Cross-platform developer tool for creating and structuring Markdown and GitHub README content.
-
-**Flutter · Firebase · Gemini · Web**
-
-[Repository](https://github.com/mhmdwaelanwr/Markdown-Creator-Dart) · [Live web app](https://www.readmecreator.studio/app)
-
-</details>
-
----
-
 ## Engineering approach
 
 `Understand the problem → design the boundary → build → test → automate → document → ship`
 
-I prefer evidence over assumptions: reproducible failures, explicit capability reporting, automated checks, release artifacts, and documentation that reflects the real state of the software.
+I prefer evidence over assumptions: reproducible failures, explicit capability reporting, automated checks, release artifacts, and documentation that matches the actual state of the software.
 
-## Engineering stack
+## Core stack
 
 | Area | Technologies |
 | --- | --- |
-| **Languages** | Python · C# · Kotlin · Java · TypeScript · JavaScript · Dart · Bash · PowerShell · C++ |
-| **Backend & data** | FastAPI · REST APIs · PostgreSQL · SQLite · Redis · Celery · Node.js · Express.js |
-| **Systems & delivery** | Linux · Ubuntu · Git · GitHub Actions · Docker · CI/CD · Nginx · packaging · releases · debugging |
-| **Desktop & cross-platform** | .NET 8 · WPF · Flutter · Android · Kotlin Multiplatform · Compose Multiplatform |
+| **Languages** | Python · C# · Kotlin · Java · TypeScript · JavaScript · Dart · Bash · C++ |
+| **Backend & data** | FastAPI · REST APIs · PostgreSQL · SQLite · Redis · Celery · Node.js |
+| **Systems & delivery** | Linux · Git · GitHub Actions · Docker · CI/CD · Nginx · packaging · releases · debugging |
+| **Desktop & mobile** | .NET 8 · WPF · Flutter · Android · Kotlin Multiplatform · Compose |
 | **Frontend** | React · TypeScript · JavaScript · Tailwind CSS |
-| **Applied AI** | Computer vision workflows · multi-provider model integration · API integration · resilient batch processing |
+| **Applied AI** | Computer vision workflows · multi-provider model integration · resilient batch processing |
 
 ## Experience & recognition
 
@@ -180,16 +145,10 @@ I prefer evidence over assumptions: reproducible failures, explicit capability r
 - **Flutter Development Diploma — Top Achiever, Route** · Apr 2026
 - **IEEE CASS Competition 2026 — University Track Participant**
 
-## GitHub activity
-
-<div align="center">
-  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhmdwaelanwr&theme=github_dark" alt="Mohamed Anwar GitHub activity">
-</div>
-
 ---
 
 <div align="center">
 
-**Software engineering with a practical, systems-oriented mindset.**
+**Building useful software with a practical, systems-oriented engineering mindset.**
 
 </div>
