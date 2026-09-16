@@ -145,6 +145,12 @@ I prefer evidence over assumptions: reproducible failures, explicit capability r
 - **Flutter Development Diploma — Top Achiever, Route** · Apr 2026
 - **IEEE CASS Competition 2026 — University Track Participant**
 
+## GitHub activity
+
+<div align="center">
+  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhmdwaelanwr&theme=github_dark" alt="Mohamed Anwar GitHub activity">
+</div>
+
 ---
 
 <div align="center">
